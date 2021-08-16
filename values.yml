@@ -13,3 +13,4 @@ app:
   dockerImageName: awsjfrogtest1.jfrog.io/workshop-docker/ecs-docker-compose-workshop-app #change to your servername
   dockerFileLocation: workshop-app
   buildName: ecs-docker-compose-workshop-app
+#
